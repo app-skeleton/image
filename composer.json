@@ -1,5 +1,5 @@
 {
-	"name":        "kohana/image",
+	"name":        "app-skeleton/image",
 	"type":        "kohana-module",
 	"description": "The official Kohana module for manipulating images",
 	"homepage":    "http://kohanaframework.org",
@@ -29,8 +29,7 @@
 	},
 	"extra": {
 		"branch-alias": {
-			"dev-3.3/develop": "3.3.x-dev",
-			"dev-3.4/develop": "3.4.x-dev"
+			"dev-3.3/develop": "3.3.x-dev"
 		}
 	}
 }
